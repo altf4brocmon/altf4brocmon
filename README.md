@@ -1,12 +1,24 @@
-# Hi, Im King
-  
-## Discord Servers  
-**Discord Display | King**  
-**Discord Username | @indieun2**  
-[**Main Server**](https://discord.gg/bwVryfn8XP)  
-[**Other Server**](https://discord.gg/skNbN4PU8Z)  
+<h1 align="center">Hi, I'm King</h1>
 
-##  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=altf4brocmon&layout=compact&theme=radical)
-##  
-[![Discord Status](https://img.shields.io/endpoint?url=https://lanyard.cnrad.dev/api/1265476952639148218&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/1265476952639148218)
+<h2 align="center">Discord Servers</h2>
+
+<p align="center">
+  <strong>Discord Display | King</strong><br>
+  <strong>Discord Username | @indieun2</strong><br>
+  <a href="https://discord.gg/bwVryfn8XP">Main Server</a><br>
+  <a href="https://discord.gg/skNbN4PU8Z">Other Server</a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altf4brocmon&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://discord.com/users/1265476952639148218">
+    <img src="https://lanyard-profile-readme.vercel.app/api/1265476952639148218" alt="Discord Presence">
+  </a>
+</p>
