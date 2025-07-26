@@ -5,7 +5,8 @@
 <p align="center">
   <strong>Discord Display | King</strong><br>
   <strong>Discord Username | @indieun2</strong><br>  
-  <strong>##</strong><br>  
+  <strong></strong><br>  
+  <strong></strong><br>  
   <a href="https://discord.gg/bwVryfn8XP">Main Server</a><br>  
   <a href="https://discord.gg/skNbN4PU8Z">Other Server</a>  
 </p>
