@@ -18,5 +18,7 @@
 <br>
 
 <p align="center">
-  [![Discord Status](https://img.shields.io/endpoint?url=https://lanyard.cnrad.dev/api/1265476952639148218&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/1265476952639148218)
+  <a href="https://discord.com/users/1265476952639148218">
+    <img src="https://img.shields.io/endpoint?url=https://lanyard.cnrad.dev/api/1265476952639148218&logo=discord&logoColor=white&style=for-the-badge" alt="Discord Status">
+  </a>
 </p>
