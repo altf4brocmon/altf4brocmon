@@ -7,4 +7,6 @@
 ##  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=altf4brocmon&layout=compact&theme=radical)
 ##  
-![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1265476952639148218)
+<p align="center">
+  <img src="https://lanyard-profile-readme.vercel.app/api/1265476952639148218" alt="Discord Presence">
+</p>
