@@ -1,6 +1,8 @@
-# Im King(@indieun2 on Discord)  
+# Hi, Im King
   
 ## Discord Servers  
+**Discord Display | King**  
+**Discord Username | @indieun2**  
 [**Main Server**](https://discord.gg/bwVryfn8XP)  
 [**Other Server**](https://discord.gg/skNbN4PU8Z)  
 
