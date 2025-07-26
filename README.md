@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm King</h1>
 
-<h2 align="center">Discord Servers</h2>
+<h2 align="center">Discord Stuff</h2>
 
 <p align="center">
   <strong>Discord Display | King</strong><br>
