@@ -1,6 +1,7 @@
 # Im King(@indieun2 on Discord)  
+  
 ## Discord Servers  
-[**Main Server**](https://discord.gg/bwVryfn8XP)
+[**Main Server**](https://discord.gg/bwVryfn8XP)  
 [**Other Server**](https://discord.gg/skNbN4PU8Z)  
 
 ## Top Languages  
