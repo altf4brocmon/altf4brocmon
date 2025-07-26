@@ -18,7 +18,5 @@
 <br>
 
 <p align="center">
-  <a href="https://discord.com/users/1265476952639148218">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1265476952639148218" alt="Discord Presence">
-  </a>
+  [![Discord Status](https://img.shields.io/endpoint?url=https://lanyard.cnrad.dev/api/1265476952639148218&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/1265476952639148218)
 </p>
