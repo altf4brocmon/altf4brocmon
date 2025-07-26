@@ -7,6 +7,4 @@
 ##  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=altf4brocmon&layout=compact&theme=radical)
 ##  
-<p align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/1265476952639148218" alt="Discord Presence">
-</p>
+[![Discord Status](https://img.shields.io/endpoint?url=https://lanyard.cnrad.dev/api/1265476952639148218&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/1265476952639148218)
